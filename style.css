@@ -338,7 +338,7 @@ a img.aligncenter {
     z-index: -1;
 }
 .navbar-dark .navbar-nav .nav-link.active{
-	color: #200000;
+	color: #545CE4;
 }
 .navbar-dark .navbar-nav .nav-link.active::after {
 	width: 100%;
