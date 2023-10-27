@@ -1719,20 +1719,21 @@ hr.invis1 {
 }
 .our-team .pic{
     border-top: none;
-    border-bottom: 5px solid #28a9e2;
-    border-radius: 50% 50% 0 50%;
+    /* border-bottom: 5px solid #28a9e2; */
+    /* border-radius: 50% 50% 0 50%; */
     overflow: hidden;
     transition: all 0.5s ease 0s;
 }
 .our-team:hover .pic{    
     border-bottom-color: #1c142b;
-    border-radius: 0 50%;
+    /* border-radius: 0 50%; */
 }
 .our-team .pic img{
     width: 100%;
     height: auto;
     transition: all 0.5s ease 0s;
 }
+
 .our-team .team-content{ padding: 20px 0; }
 .our-team .title{
     font-size: 22px;
